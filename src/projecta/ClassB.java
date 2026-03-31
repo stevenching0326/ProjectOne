@@ -11,6 +11,7 @@ package projecta;
 public class ClassB {
     public static void printMessage(){
         System.out.println("This is ClassA");
+        System.out.println("1.1"); 
         System.out.println("1.2"); 
     }
 }
