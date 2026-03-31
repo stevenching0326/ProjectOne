@@ -12,5 +12,7 @@ public class ClassB {
     public static void printMessage(){
         System.out.println("This is ClassA");
         System.out.println("1.2"); 
+        System.out.println("2.0"); 
+        System.out.println("3.0"); 
     }
 }
